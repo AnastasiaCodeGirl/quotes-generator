@@ -23,6 +23,9 @@ a{
   color: #885df1;
 }
 
+.poem strong{
+  color:  #885df1;
+}
 .poem {
   font-size: 16px;
   background-color: white;
